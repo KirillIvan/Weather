@@ -32,26 +32,4 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.807" />
 
-    <android.support.design.widget.TabLayout
-        android:layout_width="368dp"
-        android:layout_height="210dp"
-        tools:layout_editor_absoluteX="8dp"
-        tools:layout_editor_absoluteY="151dp">
-
-        <android.support.design.widget.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Left" />
-
-        <android.support.design.widget.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Center" />
-
-        <android.support.design.widget.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Right" />
-    </android.support.design.widget.TabLayout>
-
 </android.support.constraint.ConstraintLayout>
