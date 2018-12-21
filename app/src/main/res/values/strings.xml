@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">Weather</string>
-    <string name="msg_hello">Добро пожаловать в приложение Weather</string>
-    <string name="btn">Жмякни</string>
 </resources>
