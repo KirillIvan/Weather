@@ -2,5 +2,5 @@
     <string name="app_name">Weather</string>
     <string name="msg_hello">Добро пожаловать в приложение Weather</string>
     <string name="btn_push">Жмякни</string>
-    <string name="btn_signIn">Войти</string>
+    <string name="btn_SignIn">Войти</string>
 </resources>
