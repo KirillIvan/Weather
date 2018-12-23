@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weather</string>
+<<<<<<< HEAD
+=======
+    <string name="msg_hello">Добро пожаловать в приложение Weather</string>
+    <string name="btn_push">Жмякни</string>
+>>>>>>> origin/lesson1
 </resources>
